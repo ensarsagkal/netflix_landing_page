@@ -14,11 +14,21 @@ body{
     
 }
 .container{
-    background-color: rgba(0, 0, 0, 0.57);
+    background-color: rgba(0, 0, 0, 0.507);
     width: 93vw;
     height: 97vh;
     margin:10px auto;
     /* margin-top: 10px;
     padding-bottom: 10px; */
     
+}
+
+main{
+    color: white;
+    border: 2px  solid white;
+    height: 10vh;
+}
+
+main h1,p{
+    text-align: center;
 }
